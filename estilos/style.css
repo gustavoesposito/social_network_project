@@ -55,4 +55,5 @@ iframe#tela{
 }
 #rede-sociais img:hover{
     border: 2px solid white;
+    transform: translate(-10px,-3px);
 }
