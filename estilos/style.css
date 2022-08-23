@@ -41,9 +41,9 @@ iframe#tela{
     width: 269px;
     height: 471px;
 }
-#rede-sociais{
-    background-color: royalblue;
-    width: 70px;
-    height: 70px;
+#rede-sociais img{
+ background-color: royalblue;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
 }
